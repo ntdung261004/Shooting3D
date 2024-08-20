@@ -361,6 +361,7 @@
 "Assets/Scripts/Interactable.cs"
 "Assets/Scripts/Interactable/Keypad.cs"
 "Assets/Scripts/InteractionEvent.cs"
+"Assets/Scripts/Player/PlayerHealth.cs"
 "Assets/Scripts/Player/PlayerInteract.cs"
 "Assets/Scripts/Player/PlayerLook.cs"
 "Assets/Scripts/Player/PlayerMotor.cs"
