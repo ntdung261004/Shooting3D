@@ -4,25 +4,26 @@ using UnityEngine;
 
 public abstract class Interactable : MonoBehaviour
 {
+    //Add or remove an InteractionEvent component to this gameobject.
+    public bool useEvents;
+    [SerializeField]
     public string promptMessage;
 
+    public virtual string OnLook()
+    {
+        return promptMessage;
+    }
     public void BaseInteract()
     {
+        if(useEvents)
+        {
+            GetComponent<InteractionEvent>().OnInteract.Invoke(); 
+        }
         Interact();
     }
     protected virtual void Interact()
     {
 
     }
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+    
 }

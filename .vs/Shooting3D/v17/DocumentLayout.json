@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "D:\\KOT104\\Shooting3D\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D2FFEAC1-F316-58AD-4A76-906C750FDEF8}|Assembly-CSharp-Editor.csproj|D:\\KOT104\\Shooting3D\\assets\\editor\\interactableeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2FFEAC1-F316-58AD-4A76-906C750FDEF8}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\editor\\interactableeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A44B4238-7E47-EF63-BFFC-2B9FBB4B480F}|Assembly-CSharp.csproj|D:\\KOT104\\Shooting3D\\assets\\scripts\\interactionevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A44B4238-7E47-EF63-BFFC-2B9FBB4B480F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interactionevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A44B4238-7E47-EF63-BFFC-2B9FBB4B480F}|Assembly-CSharp.csproj|D:\\KOT104\\Shooting3D\\assets\\scripts\\interactable\\keypad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A44B4238-7E47-EF63-BFFC-2B9FBB4B480F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interactable\\keypad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A44B4238-7E47-EF63-BFFC-2B9FBB4B480F}|Assembly-CSharp.csproj|d:\\kot104\\shooting3d\\assets\\scripts\\interactable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A44B4238-7E47-EF63-BFFC-2B9FBB4B480F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interactable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A44B4238-7E47-EF63-BFFC-2B9FBB4B480F}|Assembly-CSharp.csproj|D:\\KOT104\\Shooting3D\\assets\\scripts\\player\\playerinteract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A44B4238-7E47-EF63-BFFC-2B9FBB4B480F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerinteract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A44B4238-7E47-EF63-BFFC-2B9FBB4B480F}|Assembly-CSharp.csproj|d:\\kot104\\shooting3d\\assets\\scripts\\eventonlyinteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A44B4238-7E47-EF63-BFFC-2B9FBB4B480F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\eventonlyinteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A44B4238-7E47-EF63-BFFC-2B9FBB4B480F}|Assembly-CSharp.csproj|D:\\KOT104\\Shooting3D\\assets\\scripts\\inputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,16 +39,8 @@
       "RelativeMoniker": "D:0:0:{A44B4238-7E47-EF63-BFFC-2B9FBB4B480F}|Assembly-CSharp.csproj|solutionrelative:assets\\input\\playerinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A44B4238-7E47-EF63-BFFC-2B9FBB4B480F}|Assembly-CSharp.csproj|d:\\kot104\\shooting3d\\assets\\scripts\\player\\playerui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A44B4238-7E47-EF63-BFFC-2B9FBB4B480F}|Assembly-CSharp.csproj|D:\\KOT104\\Shooting3D\\assets\\scripts\\player\\playerui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A44B4238-7E47-EF63-BFFC-2B9FBB4B480F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A44B4238-7E47-EF63-BFFC-2B9FBB4B480F}|Assembly-CSharp.csproj|D:\\KOT104\\Shooting3D\\assets\\scripts\\interactable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A44B4238-7E47-EF63-BFFC-2B9FBB4B480F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interactable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A44B4238-7E47-EF63-BFFC-2B9FBB4B480F}|Assembly-CSharp.csproj|D:\\KOT104\\Shooting3D\\assets\\scripts\\interactable\\keypad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A44B4238-7E47-EF63-BFFC-2B9FBB4B480F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interactable\\keypad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,24 +50,67 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EventOnlyInteractable.cs",
+              "DocumentMoniker": "D:\\KOT104\\Shooting3D\\Assets\\Scripts\\EventOnlyInteractable.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EventOnlyInteractable.cs",
+              "ToolTip": "D:\\KOT104\\Shooting3D\\Assets\\Scripts\\EventOnlyInteractable.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EventOnlyInteractable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T12:46:40.355Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "InteractableEditor.cs",
+              "DocumentMoniker": "D:\\KOT104\\Shooting3D\\Assets\\Editor\\InteractableEditor.cs",
+              "RelativeDocumentMoniker": "Assets\\Editor\\InteractableEditor.cs",
+              "ToolTip": "D:\\KOT104\\Shooting3D\\Assets\\Editor\\InteractableEditor.cs",
+              "RelativeToolTip": "Assets\\Editor\\InteractableEditor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABpAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T12:24:30.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InteractionEvent.cs",
+              "DocumentMoniker": "D:\\KOT104\\Shooting3D\\Assets\\Scripts\\InteractionEvent.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\InteractionEvent.cs",
+              "ToolTip": "D:\\KOT104\\Shooting3D\\Assets\\Scripts\\InteractionEvent.cs",
+              "RelativeToolTip": "Assets\\Scripts\\InteractionEvent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T12:18:36.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "PlayerInteract.cs",
               "DocumentMoniker": "D:\\KOT104\\Shooting3D\\Assets\\Scripts\\Player\\PlayerInteract.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerInteract.cs",
               "ToolTip": "D:\\KOT104\\Shooting3D\\Assets\\Scripts\\Player\\PlayerInteract.cs",
               "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerInteract.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAQwCUAAAAiAAAA",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCgAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-12T15:41:42.208Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "PlayerUI.cs",
               "DocumentMoniker": "D:\\KOT104\\Shooting3D\\Assets\\Scripts\\Player\\PlayerUI.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerUI.cs",
@@ -63,38 +118,37 @@
               "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerUI.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-12T15:39:31.583Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-12T15:39:31.583Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "Keypad.cs",
               "DocumentMoniker": "D:\\KOT104\\Shooting3D\\Assets\\Scripts\\Interactable\\Keypad.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Interactable\\Keypad.cs",
               "ToolTip": "D:\\KOT104\\Shooting3D\\Assets\\Scripts\\Interactable\\Keypad.cs",
               "RelativeToolTip": "Assets\\Scripts\\Interactable\\Keypad.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-12T15:27:35.31Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Interactable.cs",
               "DocumentMoniker": "D:\\KOT104\\Shooting3D\\Assets\\Scripts\\Interactable.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Interactable.cs",
               "ToolTip": "D:\\KOT104\\Shooting3D\\Assets\\Scripts\\Interactable.cs",
               "RelativeToolTip": "Assets\\Scripts\\Interactable.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-12T15:01:57.7Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "PlayerMotor.cs",
               "DocumentMoniker": "D:\\KOT104\\Shooting3D\\Assets\\Scripts\\PlayerMotor.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMotor.cs",
@@ -105,7 +159,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "InputManager.cs",
               "DocumentMoniker": "D:\\KOT104\\Shooting3D\\Assets\\Scripts\\InputManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\InputManager.cs",
@@ -113,12 +167,11 @@
               "RelativeToolTip": "Assets\\Scripts\\InputManager.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T16:46:28.896Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-05T16:46:28.896Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "PlayerInput.cs",
               "DocumentMoniker": "D:\\KOT104\\Shooting3D\\Assets\\Input\\PlayerInput.cs",
               "RelativeDocumentMoniker": "Assets\\Input\\PlayerInput.cs",
@@ -126,8 +179,7 @@
               "RelativeToolTip": "Assets\\Input\\PlayerInput.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAJkAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T16:26:23.331Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-05T16:26:23.331Z"
             }
           ]
         }
