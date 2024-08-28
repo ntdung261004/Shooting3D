@@ -27,7 +27,7 @@
       "RelativeMoniker": "D:0:0:{A44B4238-7E47-EF63-BFFC-2B9FBB4B480F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D2FFEAC1-F316-58AD-4A76-906C750FDEF8}|Assembly-CSharp-Editor.csproj|d:\\kot104\\shooting3d\\assets\\editor\\interactableeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D2FFEAC1-F316-58AD-4A76-906C750FDEF8}|Assembly-CSharp-Editor.csproj|D:\\KOT104\\Shooting3D\\assets\\editor\\interactableeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D2FFEAC1-F316-58AD-4A76-906C750FDEF8}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\editor\\interactableeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -64,7 +64,7 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerHealth.cs",
               "ToolTip": "D:\\KOT104\\Shooting3D\\Assets\\Scripts\\Player\\PlayerHealth.cs",
               "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerHealth.cs",
-              "ViewState": "AQIAACkAAAAAAAAAAAAAwDcAAAAUAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAiwB8AAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-20T14:08:36.536Z",
               "EditorCaption": ""
@@ -79,8 +79,7 @@
               "RelativeToolTip": "Assets\\Editor\\InteractableEditor.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABpAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T12:24:30.155Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-20T12:24:30.155Z"
             },
             {
               "$type": "Document",
@@ -92,8 +91,7 @@
               "RelativeToolTip": "Assets\\Scripts\\InteractionEvent.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T12:18:36.286Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-20T12:18:36.286Z"
             },
             {
               "$type": "Document",
@@ -105,8 +103,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerInteract.cs",
               "ViewState": "AQIAABoAAAAAAAAAAAAjwCoAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-12T15:41:42.208Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-12T15:41:42.208Z"
             },
             {
               "$type": "Document",
@@ -118,8 +115,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerUI.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-12T15:39:31.583Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-12T15:39:31.583Z"
             },
             {
               "$type": "Document",
@@ -131,8 +127,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Interactable\\Keypad.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-12T15:27:35.31Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-12T15:27:35.31Z"
             },
             {
               "$type": "Document",
@@ -144,8 +139,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Interactable.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-12T15:01:57.7Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-12T15:01:57.7Z"
             },
             {
               "$type": "Document",
